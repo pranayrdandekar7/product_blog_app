@@ -4,7 +4,7 @@
       "author": "F. Scott Fitzgerald",
       "price": 10.99,
       "description": "A novel set in the Roaring Twenties that explores themes of decadence, idealism, resistance to change, social upheaval, and excess.",
-      "image": "https://example.com/images/the-great-gatsby.jpg",
+      "image": "https://cdn.kobo.com/book-images/f980a412-6e90-4c0f-a495-9ef455e0edcb/1200/1200/False/the-great-gatsby-illustrated-2.jpg",
       "rating": 4.4,
       "publishDate": "1925-04-10"
     },
@@ -13,7 +13,7 @@
       "author": "Harper Lee",
       "price": 7.99,
       "description": "A novel about racial injustice and moral growth in the American South during the 1930s.",
-      "image": "https://example.com/images/to-kill-a-mockingbird.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqnBV0H3l9Rxlbxu1iduxpkch2ziofHh2og&s",
       "rating": 4.8,
       "publishDate": "1960-07-11"
     },
@@ -22,7 +22,7 @@
       "author": "George Orwell",
       "price": 8.99,
       "description": "A dystopian novel that delves into the dangers of totalitarianism and extreme political ideology.",
-      "image": "https://example.com/images/1984.jpg",
+      "image": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.6,
       "publishDate": "1949-06-08"
     },
@@ -31,7 +31,7 @@
       "author": "Jane Austen",
       "price": 6.99,
       "description": "A classic novel of manners that deals with the issues of marriage, money, and love in the early 19th century England.",
-      "image": "https://example.com/images/pride-and-prejudice.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTGKD5BPpmqy2B2mqJYlvcrNHVI5XeCMPiw&s",
       "rating": 4.7,
       "publishDate": "1813-01-28"
     },
@@ -40,7 +40,7 @@
       "author": "J.D. Salinger",
       "price": 9.49,
       "description": "A story about teenage rebellion and angst narrated by the protagonist Holden Caulfield, who experiences a series of events in New York City.",
-      "image": "https://example.com/images/the-catcher-in-the-rye.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP9ww00Cevvq6LvOv8H4DwYUFhS6fRZBZRQ&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdy2Nj7ftsKBdnQZsXgapi-qL6NCEaVBYwVQ&s",
       "rating": 4.3,
       "publishDate": "1951-07-16"
     },
@@ -49,34 +49,36 @@
       "author": "J.R.R. Tolkien",
       "price": 12.99,
       "description": "A fantasy novel that follows the journey of Bilbo Baggins as he embarks on an adventure to reclaim a stolen treasure from the dragon Smaug.",
-      "image": "https://example.com/images/the-hobbit.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov_M4ztunQei4FT77_sEMJ76ckG3knZCyrQ&s",
       "rating": 4.9,
       "publishDate": "1937-09-21"
     },
-    {
-      "title": "Moby-Dick",
-      "author": "Herman Melville",
-      "price": 11.49,
-      "description": "A novel that chronicles the quest of Captain Ahab to exact revenge on the giant white whale Moby Dick.",
-      "image": "https://example.com/images/moby-dick.jpg",
-      "rating": 4.1,
-      "publishDate": "1851-10-18"
-    },
+   
     {
       "title": "War and Peace",
       "author": "Leo Tolstoy",
       "price": 14.99,
       "description": "An epic novel that intertwines the lives of several families against the backdrop of the Napoleonic Wars in Russia.",
-      "image": "https://example.com/images/war-and-peace.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADthVq1-j6X3FIhoYj4NM6NB3KU0fC19TPw&s",
       "rating": 4.5,
       "publishDate": "1869-03-04"
     },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "price": 11.99,
+      "description": "A satirical novel set during World War II that follows Captain John Yossarian and his fellow squadron members as they try to maintain their sanity amidst the absurdities of war.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ygcFoeNozz549osgKYFYYpTQxZ3ja57jlg&s",
+      "rating": 4.5,
+      "publishDate": "1961-11-10"
+    },
+    
     {
       "title": "Brave New World",
       "author": "Aldous Huxley",
       "price": 9.49,
       "description": "A dystopian novel that explores the implications of a technologically advanced society on human values and individuality.",
-      "image": "https://example.com/images/brave-new-world.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfNT2zG1Os9BrNC4sBjn2LrsXfAN6gjYzyKQ&s",
       "rating": 4.4,
       "publishDate": "1932-08-30"
     },
@@ -85,7 +87,7 @@
       "author": "Charlotte Brontë",
       "price": 8.99,
       "description": "A novel that follows the life of Jane Eyre, an orphan who becomes a governess and faces numerous challenges and romantic entanglements.",
-      "image": "https://example.com/images/jane-eyre.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFyufyFnj8z91FuYucJPQx4bZkIVEfFZs-A&s",
       "rating": 4.6,
       "publishDate": "1847-10-16"
     },
@@ -94,7 +96,7 @@
       "author": "Dan Brown",
       "price": 13.49,
       "description": "A mystery thriller that follows Robert Langdon as he unravels a series of clues related to the secrets of the Catholic Church.",
-      "image": "https://example.com/images/the-da-vinci-code.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzK_EAJa8DmMbyANRaEeaTLLL85poA4YlvYg&s",
       "rating": 4.2,
       "publishDate": "2003-03-18"
     },
@@ -103,7 +105,7 @@
       "author": "Paulo Coelho",
       "price": 10.49,
       "description": "A philosophical novel about a shepherd named Santiago who dreams of finding treasure and embarks on a journey of self-discovery.",
-      "image": "https://example.com/images/the-alchemist.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEvW41YzngO_Bk9V8EgbMwZgMmVYQRKF4PQ&s",
       "rating": 4.7,
       "publishDate": "1988-05-01"
     }
