@@ -68,7 +68,7 @@
       "author": "Joseph Heller",
       "price": 11.99,
       "description": "A satirical novel set during World War II that follows Captain John Yossarian and his fellow squadron members as they try to maintain their sanity amidst the absurdities of war.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ygcFoeNozz549osgKYFYYpTQxZ3ja57jlg&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8mI7961BZ29NEHr4OWlk9spVPiamYPbtTQw&s",
       "rating": 4.5,
       "publishDate": "1961-11-10"
     },

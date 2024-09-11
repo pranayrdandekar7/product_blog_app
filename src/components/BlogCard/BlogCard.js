@@ -5,8 +5,9 @@ import "./BlogCard.css"
         image,
         title,
         description,
-        authorName
+        author
     })
+   
       {
   return (
    <>
@@ -18,7 +19,11 @@ import "./BlogCard.css"
         />
         <span className="card-title">{title}</span>
         <span className="card-description">{description.substring(0,80)}...</span>
+        <span className="card-author">By {author}</span>
+
+        <button className="card-btn">Buy Now</button>
     </div>
+    
    
    </>
   )

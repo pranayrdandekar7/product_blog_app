@@ -9,6 +9,7 @@
     border: 1px solid black;
     cursor: pointer;
     background-color: white;
+    position: relative;
 }
 
 .card-image{
@@ -36,3 +37,25 @@
     display: block;
     text-align: justify;
   }
+.card-author{
+    position: absolute;
+    bottom: 35px;
+    right: 5px;
+}
+.card-btn{
+     background-color: black;
+     padding: 8px 22px;
+     border-radius: 10px;
+     color: white;
+     cursor: pointer;
+     position: absolute;
+     bottom: 5px;
+     left: 10px;
+     font-size: 14px;
+     border: none;
+}
+.card-btn:hover{
+    background-color:  rgb(49, 46, 46);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
