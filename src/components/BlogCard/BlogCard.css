@@ -37,14 +37,26 @@
     display: block;
     text-align: justify;
   }
+  .card-price{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 40px;
+    left: 15px;
+  }
 .card-author{
     position: absolute;
-    bottom: 35px;
+    bottom: 40px;
     right: 5px;
+}
+.card-rating{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
 }
 .card-btn{
      background-color: black;
-     padding: 8px 22px;
+     padding: 6px 16px;
      border-radius: 10px;
      color: white;
      cursor: pointer;

@@ -10,7 +10,9 @@ function Home() {
       <div className="card-container">
         {
           Book.map((blogObj, i) => {
-            const { title,
+            const {
+              id,
+              title,
               author,
               price,
               description,
@@ -19,8 +21,8 @@ function Home() {
               publishDate } = blogObj;
 
             return (<BlogCard
-
-              id={i}
+              key={i}
+              id={id}
               title={title}
               author={author}
               price={price}
