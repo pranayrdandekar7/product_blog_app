@@ -1,0 +1,41 @@
+
+.blogview-title{
+    font-size: 35px;
+    text-align: center;
+
+}
+.detail-card-container{
+    display: flex;
+}
+.detail-card{
+    height: 500px ;
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.image-container{
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.Blogview-img{
+    height: 400px;
+    width: 300px ;
+}
+
+.blog-view-card-title{
+    font-size: 25px;
+}
+.card-description{
+    font-size: 25px;
+    display: block;
+    text-align: center;
+}
+.descripton-container{
+    
+    margin-top: 10px;
+}
+.card-description-item{
+   margin-top: 10px;
+}
