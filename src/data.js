@@ -6,7 +6,7 @@ const books = [
     "price": 499,
     "description": ["Set in the Roaring Twenties, the novel explores themes of decadence, idealism, and excess.",
       "Follows the enigmatic Jay Gatsby and his quest to win back his former lover, Daisy Buchanan.",
-      "Backdrop includes extravagant parties and moral decay.",
+      "Backdrop includes  extravagant parties and moral decay.",
       "Examines resistance to change and social upheaval."],
     "image": "https://cdn.kobo.com/book-images/f980a412-6e90-4c0f-a495-9ef455e0edcb/1200/1200/False/the-great-gatsby-illustrated-2.jpg",
     "rating": 4.4,

@@ -5,23 +5,28 @@
 
 }
 .detail-card-container{
-    display: flex;
+    display: flex; 
+    justify-content: center;
+    border: 1px solid black;
+
 }
 .detail-card{
-    height: 500px ;
-    width: 400px;
-    border: 1px solid black;
+   
+    height: 450px ;
+    width: 450px;
+    /* border: 1px solid black; */
     padding: 10px;
 }
 .image-container{
-    height: 500px;
+    height: 450px;
     width: 400px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 10px;
 }
 .Blogview-img{
-    height: 400px;
-    width: 300px ;
+    height: 450px;
+    width: 350px ;
+    cursor: pointer;
 }
 
 .blog-view-card-title{
@@ -38,4 +43,43 @@
 }
 .card-description-item{
    margin-top: 10px;
+}
+.offer{
+    display: block;
+    margin-top: 20px;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.price{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 10px;
+   
+}
+.del-price{
+    font-size: 25px;
+    color: red;
+    margin-left: 20px;
+}
+.btn{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: black;
+    padding: 10px 22px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    border: none;
+}
+.btn:hover{
+    background-color:  rgb(49, 46, 46);
+    transition: 0.5s;
+    transform: scale(1.1);
+
 }

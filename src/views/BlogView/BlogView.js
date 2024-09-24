@@ -26,7 +26,8 @@ function BlogView() {
 
             <li> <h2 className="blog-view-card-title"> Book Name: {selectData.title}</h2></li>
             <li><p>Publish On {selectData.publishDate}</p> </li>
-            <span className="card-description">Description</span>
+            <li><p>Author : {selectData.author}</p></li>
+            <span className="card-description">Description :</span>
 
             <ul className="descripton-container">
               {selectData.description.length > 1 ? (
@@ -40,10 +41,17 @@ function BlogView() {
               )}
             </ul>
 
+            <span className="offer">OFFER FOR YOU  : 100 Rs off on your First Order </span>
+            <p className="price">
+              Price :<del className="del-price">{selectData.price}  </del>{selectData.price - 100}
+
+            </p>
+
           </ul>
         </div>
 
       </div>
+      <button className="btn">Buy now</button>
 
     </>
   )
